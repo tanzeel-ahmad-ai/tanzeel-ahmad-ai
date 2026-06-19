@@ -40,6 +40,6 @@ AI-powered traffic monitoring and management system using:
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/tanzeel-ahmad-a9248340a
 
 ⭐ Passionate about AI, Machine Learning, and building real-world solutions.
