@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Tanzeel Ahmad 👋
 
-<!--
-**tanzeel-ahmad-ai/tanzeel-ahmad-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 React JS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+🤖 Machine Learning Enthusiast
+
+🚦 Currently working on an AI-Based Smart Traffic Management System
+
+## 🚀 Skills
+
+* Python
+* Machine Learning
+* Deep Learning
+* React JS
+* FastAPI
+* MySQL
+* Git & GitHub
+
+## 📚 Currently Learning
+
+* Computer Vision
+* Advanced Machine Learning
+* Full Stack Development
+* AI Applications
+
+## 🛠 Projects
+
+### Smart Traffic Management System
+
+AI-powered traffic monitoring and management system using:
+
+* YOLO
+* FastAPI
+* React JS
+* MySQL
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn profile link here
+
+⭐ Passionate about AI, Machine Learning, and building real-world solutions.
